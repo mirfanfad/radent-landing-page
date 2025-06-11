@@ -1,56 +1,56 @@
-# Shadcn Landing Page Template
+# Radent Landing Page
 
-## <a href="https://ui.shadcn.com/" target="_blank">Shadcn</a> + <a href="https://nextjs.org/" target="_blank">Next.js</a> + <a href="https://www.typescriptlang.org/" target="_blank">TypeScript</a> + <a href="https://tailwindcss.com/" target="_blank">Tailwind</a>.
+Radent adalah platform digital berbasis cloud untuk digitalisasi dan otomasi operasional klinik gigi di Indonesia. Landing page ini dibangun menggunakan Next.js, TypeScript, Tailwind CSS, dan komponen Shadcn UI.
 
-### This is a project conversion <a href="https://github.com/leoMirandaa/shadcn-vue-landing-page" target="_blank">Shadcn-Vue</a> to NextJS
+![Demo Radent](./public/demo-img.jpg)
 
-![Alt text](./public/demo-img.jpg)
-
-## Sections
+## Bagian Halaman
 
 - [x] Navbar
-- [x] Sidebar(mobile)
 - [x] Hero
-- [x] Sponsors
-- [x] Benefits
-- [x] Features
-- [x] Testimonials
-- [x] Team
-- [x] Community
-- [x] Contact
-- [x] Pricing
-- [x] Frequently Asked Questions(FAQ)
-- [x] Services
+- [x] Benefit (Keunggulan)
+- [x] Fitur
+- [x] Testimoni
+- [x] Layanan
+- [x] Harga
+- [x] FAQ (Pertanyaan Umum)
+- [x] Kontak
 - [x] Footer
 
-## Features
+## Fitur
 
-- [x] Fully Responsive Design
-- [x] User Friendly Navigation
-- [x] Dark Mode
+- [x] Desain responsif
+- [x] Navigasi mudah digunakan
+- [x] Mode gelap & terang
+- [x] Komponen modular
+- [x] Siap untuk produksi
 
-## How to install
+## Cara Menjalankan
 
-1. Clone this repositoy:
-
-```bash
-git clone https://github.com/nobruf/shadcn-landing-page.git
-```
-
-2. Go into project
+1. Clone repository ini:
 
 ```bash
-cd shadcn-landing-page
+git clone https://github.com/nobruf/radent-landing-page.git
 ```
 
-3. Install dependencies
+2. Masuk ke folder project:
+
+```bash
+cd radent-landing-page
+```
+
+3. Install dependencies:
 
 ```bash
 npm install
 ```
 
-4. Run project
+4. Jalankan project:
 
 ```bash
 npm run dev
 ```
+
+---
+
+Landing page ini dikembangkan untuk kebutuhan promosi dan informasi produk Radent.
